@@ -2,6 +2,7 @@ import React, { useContext } from 'react'
 import { Products } from '../../Products'
 import { ShopContext } from '../Context/Shop-context'
 import CartItem from './Cart-item'
+import './cartss.css';
 
 
 function Cart() {
