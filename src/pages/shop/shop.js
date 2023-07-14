@@ -7,7 +7,7 @@ function Shop() {
   return (
     <div className='shop' >
         <div className='shopTitle' >
-           <h1>Mini Cart</h1>
+           <h1>MobilePhone Garage</h1>
         </div>
         <div className='products' >
 {Products.map(product=>(
